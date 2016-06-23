@@ -1,0 +1,16 @@
+{
+  "run_list": [
+    "role[server]",
+    "role[rails-app]",
+    "role[ngnix-server]",
+    "role[mysql-server]"
+  ],
+  "automatic": {
+    "ipaddress": "139.162.55.170"
+  },
+  "mysql": {
+    "server_root_password":"ilovessn777",
+    "server_debian_password":"ilovessn777",
+    "server_repl_password":"ilovessn777"
+  }
+}

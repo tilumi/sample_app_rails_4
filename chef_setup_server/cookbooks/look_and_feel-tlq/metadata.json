@@ -1,0 +1,34 @@
+{
+  "name": "look_and_feel-tlq",
+  "description": "Installs tools to make the server nicer to work on, quite opinionated",
+  "long_description": "",
+  "maintainer": "Ben Dixon",
+  "maintainer_email": "ben@hillsbede.co.uk",
+  "license": "none",
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "dependencies": {
+    "locales": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "look_and_feel-tlq": "Adds visual flag to production environment as well as htop, vim and zip, also allows for the installation of additional locales"
+  },
+  "version": "0.0.5",
+  "source_url": "",
+  "issues_url": ""
+}

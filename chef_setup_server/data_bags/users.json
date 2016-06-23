@@ -1,0 +1,9 @@
+{
+  "id": "deploy",
+  "password": "$1$QNRhb16Q$MD.cqf2B99/Bu.MdwvIZo1",  
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2+9TXUQf86d5/a2DFdzMVCZMK+e4aQpDMQzHY90OZ0Mewt0RdMBBBntnNrg1viIVrqg9O+GJ26Ab1lYEtfD9NzUUti5YT4Hr6LRCLKzICqPrIRwvC906u83StEcq31/HZOA5vj5EACp4/owJxsYePH1/Gy6NwOxZw72Aw7IniTQTb9p4B84wWJ4hrh00XHLB4Mfyj9VY9UsnsDyNJFJU918oGILMgCbMTj9IikxC+HJp1X6517uBDPN3UUQek57jTASnoWW0ykA/z6cQK3kvK9FYkHouWplceJcNoU3fCFOrKbWyks/6NNTEQ84ZJaTaxEmjVg8awGHw7MK3Rs5qH lucasmf@nameattend-lm"
+  ],
+  "groups": [ "sysadmin"], 
+  "shell": "\/bin\/bash"
+}
