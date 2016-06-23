@@ -3,7 +3,7 @@ set :deploy_user, 'deploy'
 
 # setup repo details
 set :scm, :git
-set :repo_url, 'git@github.com:lucasmf/sample_app_rails_4'
+set :repo_url, 'git@github.com:tilumi/sample_app_rails_4'
 
 # setup rbenv.
 set :rbenv_type, :system
