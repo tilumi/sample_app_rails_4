@@ -10,6 +10,16 @@ gem 'faker', '1.1.2'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 
+gem 'capistrano', '~> 3.3.5'
+# rails specific capistrano functions
+gem 'capistrano-rails', '~> 1.1.2'
+
+# integrate bundler with capistrano
+gem 'capistrano-bundler'
+
+# if you are using Rbenv
+gem 'capistrano-rbenv', "~> 2.0.3"
+
 group :development, :test do
   gem "sqlite3", '1.3.11' 
   gem 'rspec-rails', '2.13.1'

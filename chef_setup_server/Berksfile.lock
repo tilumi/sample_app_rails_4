@@ -28,7 +28,7 @@ DEPENDENCIES
   nginx (~> 2.7.6)
   ntp
     git: git://github.com/chef-cookbooks/ntp.git
-    revision: e4a9cdcf9449519bf5833cc16edb933ddad8b7fd
+    revision: fc7f54d1226b30b84dc70fad95504ed20305627a
   openssh
     git: git://github.com/opscode-cookbooks/openssh.git
     revision: 2963f23da3644fd3b7b6ac94594068d9b9729dd2
@@ -47,8 +47,8 @@ DEPENDENCIES
     git: git://github.com/opscode-cookbooks/ufw.git
     revision: 6fac50046e3342e24c9ecfa57db9903054994378
   users
-    git: git://github.com/opscode-cookbooks/users.git
-    revision: 80ca9d184f02557474a1e5fd5c821e834c50e2a0
+    git: git://github.com/tilumi/users.git
+    revision: 0a0089bcd32d0fae2e47cd65d6169eea07df6357
 
 GRAPH
   7-zip (1.0.2)
@@ -118,7 +118,7 @@ GRAPH
   ufw (1.0.0)
     firewall (>= 2.0.0)
   users (2.0.3)
-  windows (1.43.0)
+  windows (1.44.0)
     chef_handler (>= 0.0.0)
   yum (3.11.0)
   yum-epel (0.7.0)

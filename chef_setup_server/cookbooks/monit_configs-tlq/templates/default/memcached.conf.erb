@@ -1,4 +1,5 @@
-check process memcached with pidfile /var/run/memcached.pid
+check process memcached
+   with pidfile /var/run/memcached.pid
    group memcache
    start program = "/etc/init.d/memcached start"
    stop  program = "/etc/init.d/memcached stop"

@@ -78,7 +78,7 @@
     // required by the users cookbook when using chef solo
     "recipe[chef-solo-search::default]",
     // setup standard sysadmin users
-    "recipe[users::sysadmins]",
+    "recipe[users-setup]",
     // Error executing action `create` on resource 'firewall_rule[ssh]',
     // Cause: Cannot find a resource matching firewall[default] (did you define it first?)
     "recipe[firewall::default]",
