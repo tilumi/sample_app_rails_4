@@ -48,7 +48,7 @@ DEPENDENCIES
     revision: 6fac50046e3342e24c9ecfa57db9903054994378
   users
     git: git://github.com/tilumi/users.git
-    revision: 0a0089bcd32d0fae2e47cd65d6169eea07df6357
+    revision: 7f8506d7656172440671b50d2694c6fc4af7c0ee
 
 GRAPH
   7-zip (1.0.2)
